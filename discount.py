@@ -10,4 +10,4 @@ new_value=price * 0.88
 #Print on Screen
 print("Price: R$", price)
 print("Discount ", discounted_price)
-print("Value with discount: ", new_value)
+print("discounted value: ", new_value)
